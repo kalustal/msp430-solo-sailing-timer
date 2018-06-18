@@ -9,7 +9,8 @@
 // 
 // MSP430x2xx
 // -----------------
-// 
+// Licence CC-BY-NC jerome.samson@gmail.com Jerome Samson
+// USE AT YOUR OWN RISK / NO WARRANTIES
 //***************************************************************************************
 #include <msp430g2231.h>
 
